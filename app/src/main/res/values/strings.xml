@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLiteAppEmpregados</string>
+
+    <array name="qualidades">
+        <item>Ótimo</item>
+        <item>Bom</item>
+        <item>Regular</item>
+        <item>Ruim</item>
+        <item>Péssimo</item>
+    </array>
+</resources>
